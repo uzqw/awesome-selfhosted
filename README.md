@@ -778,6 +778,7 @@ A [document management system](https://en.wikipedia.org/wiki/Document_management
 - [Komga](https://komga.org) - Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader. ([Source Code](https://github.com/gotson/komga)) `MIT` `Java/Docker`
 - [MyMangaDB](https://github.com/FabianRolfMatthiasNoll/MyMangaDB) `⚠` - Manga collection manager with automatic metadata, MyAnimeList import and detailed collection statistics. `GPL-3.0` `Docker`
 - [Stump](https://www.stumpapp.dev) - A fast, free and open source comics, manga and digital book server with OPDS support. ([Source Code](https://github.com/stumpapp/stump)) `MIT` `Rust`
+- [vellum](https://github.com/uzqw/vellum) - A self-hosted ebook reader your LLM can read. EPUB/PDF/MOBI, multi-device sync, bookmarks/notes/progress, and an embedded read-only MCP server. `AGPL-3.0` `Go/Docker`
 
 
 ### Document Management - Institutional Repository and Digital Library Software
